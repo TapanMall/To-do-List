@@ -2,7 +2,7 @@
 An interactive and beautifully designed To-Do List application with smooth animations to make task management fun and visually engaging.
 Easily add tasks, set due dates, and keep track of your daily goals with a clean and modern interface.
 
-🔗 **Live Demo:** [Bidhub Landing Page](https://tapanmall.github.io/To-do-List/)
+🔗 **Live Demo:** [To-Do List](https://tapanmall.github.io/To-do-List/)
 
 ## ✨ Features
 🎨 Modern Animated UI – A visually appealing gradient interface with smooth animations.
@@ -25,7 +25,7 @@ JavaScript (ES6) – Functionality and DOM manipulation
 ## 🚀 Getting Started
 
 1️⃣ Clone the repository
-git clone https://github.com/TapanMall/animated-todo-list.git
+git clone https://github.com/TapanMall/To-do-List.git
 
 2️⃣ Open the project
 Simply open the index.html file in your browser.
@@ -35,15 +35,13 @@ Fill in the task name, select a date, and hit ADD.
 
 📸 Preview
 
-First look
+## First look
 <img width="1561" height="955" alt="Screenshot 2025-08-13 195359" src="https://github.com/user-attachments/assets/b9dba4d4-2551-442d-a106-1a7375b12458" />
 
-After adding tasks 
+## After adding tasks 
 <img width="1603" height="958" alt="Screenshot 2025-08-13 195347" src="https://github.com/user-attachments/assets/47dbbfc8-c870-47a3-a532-ed35b410b1f9" />
 
-Restrict from choosing previous dates
+## Restrict from choosing previous dates
 <img width="1413" height="958" alt="Screenshot 2025-08-13 195332" src="https://github.com/user-attachments/assets/167d96bf-bc1e-4f72-b0c6-5ed1440b8350" />
 
-## ✍️ Author 
-  Tapan Mall 
-  Made with 💻 & ❤️ by Tapan Mall
+ ## Made with 💻 & ❤️ by Tapan Mall
